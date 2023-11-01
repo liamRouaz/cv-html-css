@@ -1,0 +1,34 @@
+body{ background-color: bisque;}
+#mon_titre {color: #090608;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h2{
+    text-align: center;
+    text-decoration: underline;}
+
+.information_personelle {
+    background-color: #e762eb;
+    border-radius: 10px;
+    position:fixed;
+    border:solid 1px;
+    width:200px;
+    top:10px;
+    left:10px;
+    bottom:10px;}
+.Mes_objectifs{margin-left: 225px;
+    border: 4mm ridge rgba(211, 220, 50, .6);}
+
+.Experience_proffesionelle{margin-left: 225px;
+    border: 4mm ridge rgba(211, 220, 50, .6);}
+
+.Etude{margin-left: 225px;
+    border: 4mm ridge rgba(211, 220, 50, .6);}
+
+.competance{margin-left: 225px;
+    border: 4mm ridge rgba(211, 220, 50, .6);}
+
+.buttongit{color: aquamarine;}
+
+.buttonpdf
